@@ -24,7 +24,8 @@ Gradle:
 
 dependencies {
 
-  
+	        implementation 'com.github.ParthPitroda:ArithmaticMeanMedianMode:v1.2'
+
 }
 
 allprojects {
