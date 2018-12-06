@@ -24,7 +24,7 @@ Gradle:
 
 dependencies {
 
-  compile 'com.github.lopei:collageview:0.1.3'  
+  
 }
 
 allprojects {
